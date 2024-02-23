@@ -48,7 +48,6 @@ yarn dev
 
 Este comando iniciará un servidor de desarrollo local en `http://localhost:3000`, donde podrás ver el blog en acción y realizar cambios en tiempo real.
 
-   ![Inicio del servidor de desarrollo](inserta_url_imagen_inicio)
 
 ## 💡 Enfoque del Proyecto
 
