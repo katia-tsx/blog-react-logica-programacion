@@ -1,8 +1,6 @@
 # Bienvenido al Blog Educativo de Programación con React
 
-![Logo del proyecto](inserta_la_url_de_tu_logo_aqui)
-
-Este repositorio contiene el código fuente para un blog educativo diseñado para enseñar lógica de programación utilizando React, Vite, TypeScript y Tailwind CSS. El objetivo principal de este proyecto es proporcionar recursos y ejercicios prácticos para aprender conceptos avanzados de programación front-end.
+Este repositorio es un blog educativo diseñado para enseñar lógica de programación utilizando React, Vite, TypeScript y Tailwind CSS. El objetivo principal de este proyecto es proporcionar recursos y ejercicios prácticos para aprender conceptos avanzados de programación front-end.
 
 ## 🚀 Características principales
 
@@ -28,8 +26,7 @@ Sigue estos pasos para comenzar a trabajar con el proyecto localmente:
    yarn
    ```
 
-   ![Instalación de dependencias](inserta_url_imagen_instalacion)
-
+  
 ## 🔧 Configuración Adicional
 
 Para configurar el proyecto correctamente, necesitas crear un archivo `.env` en el directorio raíz del proyecto y configurar las variables de entorno necesarias. Aquí está un ejemplo de cómo podría verse:
@@ -55,7 +52,8 @@ Este comando iniciará un servidor de desarrollo local en `http://localhost:3000
 
 ## 💡 Enfoque del Proyecto
 
-El blog educativo de programación con React sigue una arquitectura basada en el concepto de "Isla" (Island Architecture). Esto significa que cada componente de la aplicación es una "isla" independiente, lo que facilita la escalabilidad, la reutilización y el mantenimiento del código.
+>[!note]
+>El blog educativo de programación con React sigue una arquitectura basada en el concepto de "Isla" (Island Architecture). Esto significa que cada componente de la aplicación es una "isla" independiente, lo que facilita la escalabilidad, la reutilización y el mantenimiento del código.
 
 ## 🤝 Contribuciones
 
